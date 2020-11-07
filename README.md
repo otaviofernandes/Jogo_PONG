@@ -1,6 +1,6 @@
 # PONG
 
-Trata-se de um jogo escrito em python 3 (versão 3.8), utilizando a biblioteca pygame.
+Trata-se de um jogo escrito em Python 3 (versão 3.8), utilizando a biblioteca pygame.
 
 IMPORTANTE: Para iniciar o jogo, execute o arquivo main.py ou o arquivo pong.bat É necessário que a biblioteca pygame já esteja instalada no Python.
 
